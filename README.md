@@ -2,17 +2,17 @@
 
 ### Задание 1
 
-Zabbix main ![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+Zabbix main ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_main.png)
 
-Zabbix command ![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+Zabbix command ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_command.png)
 
 ### Задание 2
 
-Zabbix hosts ![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+Zabbix hosts ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_hosts.png)
 
-Zabbix agent log ![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+Zabbix agent log ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_agent_log.png)
 
-Zabbix monitoring latest ![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+Zabbix monitoring latest ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_latest_data.png)
 
 
 ```
